@@ -1,0 +1,19 @@
+{
+  "name": "david-cp02",
+  "version": "1.0.0",
+  "description": "Repo cerated for practicing purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-braga/david-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-braga/david-CP02/issues"
+  },
+  "homepage": "https://github.com/david-braga/david-CP02#readme"
+}
