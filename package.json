@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/david-braga/david-CP02/issues"
   },
-  "homepage": "https://github.com/david-braga/david-CP02#readme"
+  "homepage": "https://github.com/david-braga/david-CP02#readme",
+  "dependencies": {
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
