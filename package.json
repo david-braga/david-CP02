@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/david-braga/david-CP02#readme",
   "dependencies": {
-    "cowsay": "^1.5.0",
-    "supertest": "^6.1.6"
+    "cowsay": "^1.5.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "supertest": "^6.1.6"
   }
 }
